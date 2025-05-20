@@ -7,7 +7,7 @@
 
 // ###################################################################################
 
-namespace AntennaTracker_VariableManager
+namespace AntennaTracker_VariablesManager
 {
 
 /**
@@ -374,3 +374,7 @@ namespace AntennaTracker_VariableManager
     };
 
 }
+
+
+
+
