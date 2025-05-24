@@ -20,6 +20,8 @@ namespace AntennaTracker_VariablesManager
         ERROR_GENERAL = 0,               // General error code.
         ERROR_HMI_INIT,
         ERROR_HMI_INPUT,
+        ERROR_RESTAPI_INIT,
+        ERROR_RESTAPI_INPUT,
         ERROR_ETHERCAT_UPDATE_PEOCESS,
         ERROR_ETHERCAT_INIT,
         ERROR_ETHERNET_INIT,
